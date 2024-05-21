@@ -1,8 +1,10 @@
 # Hi there jerks, espero que estejam bem 👋 
 - 🌱 Estou aprendendo no Alura Start: Repositório digital: aprenda a compartilhar seus projetos.
-- 
+  
+- Usarei essa area para organizar meus projetos para envia-los.
+  
 - 😄 Pronomes: ele/dele
-- 
+  
 - 📫 Como me contatar:
 
  **claytonpepeu08@gmail**
