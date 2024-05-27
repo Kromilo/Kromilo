@@ -1,4 +1,4 @@
-# Hi there jerks, espero que estejam bem 👋 
+# Hi there, espero que estejam bem 👋 
 - 🌱 Estou aprendendo no Alura Start: Repositório digital: aprenda a compartilhar seus projetos.
   
 - Usarei essa area para organizar meus projetos para envia-los.
